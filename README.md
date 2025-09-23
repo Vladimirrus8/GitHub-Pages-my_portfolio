@@ -16,4 +16,4 @@
 
 - [Site-For-Import](https://github.com/Vladimirrus8/Site-For-Import.git) - разработка веб-приложения.
 
-![Моё фото](<фото Пузенко В.Г..jpg>)
+![Моё фото](my_foto.jpg)
